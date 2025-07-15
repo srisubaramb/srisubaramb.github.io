@@ -202,6 +202,11 @@ nav [class*="fa-"]:hover {
     fill: var(--aqua);
 }
 
+.header__logo--link--icon {
+    position: relative;
+    top: 10px;
+}
+
 /* projects section */
 #projects {
     padding: 4rem 1rem;
